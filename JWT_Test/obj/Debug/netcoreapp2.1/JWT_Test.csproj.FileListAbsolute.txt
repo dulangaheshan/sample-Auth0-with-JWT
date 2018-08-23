@@ -1,0 +1,14 @@
+F:\DotNet\Testing\JWT_Test\JWT_Test\bin\Debug\netcoreapp2.1\JWT_Test.deps.json
+F:\DotNet\Testing\JWT_Test\JWT_Test\bin\Debug\netcoreapp2.1\JWT_Test.runtimeconfig.json
+F:\DotNet\Testing\JWT_Test\JWT_Test\bin\Debug\netcoreapp2.1\JWT_Test.runtimeconfig.dev.json
+F:\DotNet\Testing\JWT_Test\JWT_Test\bin\Debug\netcoreapp2.1\JWT_Test.dll
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.csprojAssemblyReference.cache
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.csproj.CoreCompileInputs.cache
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.RazorAssemblyInfo.cache
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.RazorAssemblyInfo.cs
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.AssemblyInfoInputs.cache
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.AssemblyInfo.cs
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.RazorTargetAssemblyInfo.cache
+F:\DotNet\Testing\JWT_Test\JWT_Test\bin\Debug\netcoreapp2.1\JWT_Test.pdb
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.dll
+F:\DotNet\Testing\JWT_Test\JWT_Test\obj\Debug\netcoreapp2.1\JWT_Test.pdb
